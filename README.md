@@ -4,3 +4,4 @@ Sticking a .py directly into my custom_nodes folder doesn't fit my aesthetic.
 
 It's an interesting model check it out:
 https://huggingface.co/waifu-diffusion/wdv-tests
+![preview](https://github.com/BetaDoggo/ComfyUI-WDV-Nodes/blob/main/workflow-preview.png)
