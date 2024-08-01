@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-wdv-nodes"
+description = "Sampling node required to use the WDV test model, 100% of code taken from [a/https://gist.github.com/neggles/ecb6327251a9e274428d07636c727eb9](https://gist.github.com/neggles/ecb6327251a9e274428d07636c727eb9)."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/BetaDoggo/ComfyUI-WDV-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "betadoggo"
+DisplayName = "ComfyUI-WDV-Nodes"
+Icon = ""
